@@ -36,7 +36,7 @@
     <br />
     <br />
     <br />
-    <a href="#">View Demo</a>
+    <a href="https://www.youtube.com/shorts/MetlIHa8CLs">View Demo</a>
     ·
     <a href="https://github.com/Tybenson0/Pi-Ponics/issues">Report Bug</a>
     ·
